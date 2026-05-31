@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header {
+    background-color:cornflowerblue;
+    padding: 10px;
+    border-radius:10px;
+}
+header a {
+    background-color:white;
+    padding: 10px;
+    color: blue;
+    border-radius:10px;
+    text-decoration:none;
+}
+main h1 {
+    background-color:lightblue;
+    color:blue;
+    text-align: center;
+    border-radius: 10px;
+
+}
+footer {
+    background-color: burlywood;
+    padding: 3px;
+}
+footer p  {
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+}
+nav {
+    background-color: green;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+}
+select {
+    border-radius: 15px;
+}
+option {
+    background-color: navy;
+    color:white;
+}
+.IMGG {
+    background-color:indianred;
+    padding: 10px;
+    color:white;
+}
+.h22 {
+    color:blue;
+}
+.podarki {
+    border-radius: 15px;
+}
+.AHREF {
+    text-decoration: none;
+    color:black;
+    border: 3px solid navy;
+    padding: 4px;
+}
